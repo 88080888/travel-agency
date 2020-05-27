@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "Countries.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "Countries.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACT,aAAa,ECQH,IAAI;CDPf",
+    "sources": [
+        "ListItem.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "ListItem.css"
+}

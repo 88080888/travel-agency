@@ -1,0 +1,38 @@
+.component {
+  position: relative;
+  padding: 60px 0;
+  margin-bottom: 36px;
+  background: #dae2eb;
+}
+
+.component.small {
+  height: 200px;
+  margin-bottom: 0;
+  padding: 36px 0;
+}
+
+.component.light {
+  background: #fff;
+}
+
+.image {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  height: 100%;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media (max-width: 767px) {
+  .component.small {
+    height: auto;
+  }
+}
+/*# sourceMappingURL=DetailsBox.css.map */

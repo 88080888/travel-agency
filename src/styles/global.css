@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700|Source+Sans+Pro");
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15.6px;
+  line-height: 1.7;
+  color: #222f3e;
+  letter-spacing: 0.5px;
+  overflow-y: scroll;
+}
+
+a, a:hover, a:visited {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+/*# sourceMappingURL=global.css.map */

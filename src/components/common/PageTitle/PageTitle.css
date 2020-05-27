@@ -1,0 +1,16 @@
+.title {
+  position: relative;
+  font-size: 36px;
+  margin: 24px 0 72px;
+}
+
+.title:after, .title::after {
+  position: absolute;
+  content: '';
+  width: 48px;
+  height: 4px;
+  bottom: -12px;
+  left: 0;
+  background: #ff9f43;
+}
+/*# sourceMappingURL=PageTitle.css.map */

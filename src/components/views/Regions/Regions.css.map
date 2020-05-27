@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACJ,SAAS,EAAE,IAAgB;EAC3B,MAAM,EAAE,IAAgB,CAAC,CAAC,CAAC,CAAC;CAC7B;;AAED,AAAA,SAAS,CAAC;EACR,KAAK,EAAE,OAAyB;EAChC,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAClB,MAAM,ECAI,IAAI,CDAK,CAAC,CAAC,IAAgB,CAAC,CAAC;CACxC",
+    "sources": [
+        "Regions.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "Regions.css"
+}

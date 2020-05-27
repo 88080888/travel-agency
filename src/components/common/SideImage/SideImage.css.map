@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,MAAM,EAAE,SAAS,EAAE,KAAK;EAEtB,AAAA,UAAU,CAAC;IACT,OAAO,EAAE,IAAI;GACd",
+    "sources": [
+        "SideImage.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "SideImage.css"
+}

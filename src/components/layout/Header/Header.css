@@ -1,0 +1,73 @@
+.component {
+  background: #222f3e;
+  padding: 18px 0;
+  color: #fff;
+}
+
+.component nav {
+  font-size: 15.6px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.component nav a {
+  color: #fff;
+  margin-right: 36px;
+  padding-bottom: 6px;
+  -webkit-transition: color 0.4s linear;
+  transition: color 0.4s linear;
+}
+
+.component nav a:last-of-type {
+  margin-right: 0;
+}
+
+.component nav a:hover {
+  color: #ff9f43;
+}
+
+.component nav a:global(.active) {
+  border-bottom: 4px solid #ff9f43;
+}
+
+.logo {
+  color: #fff;
+  font-size: 24px;
+}
+
+.name {
+  position: relative;
+  top: -3px;
+  left: 12px;
+  font-family: "Montserrat", sans-serif;
+  text-transform: lowercase;
+  font-size: 18px;
+}
+
+.contact {
+  text-align: right;
+}
+
+.contact span {
+  padding-left: 12px;
+}
+
+@media (max-width: 767px) {
+  .component {
+    text-align: center;
+  }
+  .component nav {
+    margin-top: 18px;
+  }
+  .contact {
+    text-align: center;
+    margin-top: 18px;
+  }
+}
+/*# sourceMappingURL=Header.css.map */

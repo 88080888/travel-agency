@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,KAAK;CACjB;;AAED,AAAA,MAAM,CAAC;EACL,MAAM,EAAE,CAAC,CAAC,CAAC,CAAC,IAAgB,CAAC,CAAC;CAC/B",
+    "sources": [
+        "Trip.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "Trip.css"
+}

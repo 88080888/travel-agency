@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAgB,CAAC,CAAC;EAC3B,KAAK,EAAE,IAAI;CAQZ;;AAVD,AAGE,UAHQ,AAGP,SAAS,CAAC;EACT,OAAO,EAAE,CAAC;EACV,KAAK,EAAE,IAAI;CACZ;;AANH,AAOE,UAPQ,AAOP,SAAS,CAAC;EACT,OAAO,EAAE,CAAC;CACX",
+    "sources": [
+        "Section.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "Section.css"
+}

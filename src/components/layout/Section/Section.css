@@ -1,0 +1,14 @@
+.component {
+  padding: 48px 0;
+  width: 100%;
+}
+
+.component.centered {
+  padding: 0;
+  width: auto;
+}
+
+.component.has-hero {
+  padding: 0;
+}
+/*# sourceMappingURL=Section.css.map */

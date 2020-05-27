@@ -1,0 +1,24 @@
+.options {
+  margin: 96px 0 0;
+}
+
+.option {
+  padding: 12px 24px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #222f3e;
+}
+
+.option:last-of-type {
+  border-bottom: 0;
+}
+
+.option span {
+  padding-left: 24px;
+}
+
+@media (max-width: 767px) {
+  .options {
+    margin: 24px 0 0;
+  }
+}
+/*# sourceMappingURL=Info.css.map */

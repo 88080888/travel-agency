@@ -1,0 +1,47 @@
+.component {
+  display: block;
+  margin-top: 24px;
+  color: #222f3e;
+  text-decoration: none;
+  border: 1px solid #dae2eb;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.component:hover {
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+  -webkit-box-shadow: 0 40px 40px 0 rgba(0, 0, 0, 0.16);
+          box-shadow: 0 40px 40px 0 rgba(0, 0, 0, 0.16);
+}
+
+.name {
+  font-size: 24px;
+  padding-left: 24px;
+  margin: 0;
+}
+
+.region {
+  margin: 0;
+  padding-left: 24px;
+  color: #7794b5;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14.4px;
+}
+
+.details {
+  position: relative;
+  opacity: 0.7;
+}
+
+.details:before, .details::before {
+  position: absolute;
+  content: '';
+  width: 1px;
+  height: 130px;
+  top: 0;
+  left: -36px;
+  background: #dae2eb;
+}
+/*# sourceMappingURL=CountrySummary.css.map */
