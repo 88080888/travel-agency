@@ -33,7 +33,6 @@ class TripListOptions extends React.Component {
 
   render(){
     const {tags, filters} = this.props;
-    console.log ('spr', filters.tags);
     return (
       <div className={styles.component}>
         <Row around="lg">
