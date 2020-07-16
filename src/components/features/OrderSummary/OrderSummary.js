@@ -13,7 +13,7 @@ class OrderSummary extends React.Component {
 
   render(){
     const { totalCost, options} = this.props;
-    const totalPrice = calculateTotal((formatPrice(totalCost)), options);
+    const totalPrice = formatPrice(calculateTotal(totalCost, options));
     return (
       <h2 className={styles.component}>Total: <strong>{totalPrice}</strong></h2>
     );
