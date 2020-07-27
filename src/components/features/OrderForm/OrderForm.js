@@ -53,8 +53,6 @@ const sendOrder = (options, tripCost, countryCode, tripName, tripId) => {
 
 class OrderForm extends React.Component {
 
-
-
   render(){
 
     const { tripCost, options, setOrderOption, countryCode, tripName, tripId} = this.props;
