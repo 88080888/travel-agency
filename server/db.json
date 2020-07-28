@@ -330,6 +330,38 @@
       "start-date": "",
       "totalCost": "$35,617",
       "id": 25
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "countryCode": "TG",
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "Kasia",
+      "contact": "hahahahahahah",
+      "start-date": "",
+      "totalCost": "$30,619",
+      "id": 26
+    },
+    {
+      "tripId": "5cc1d10181a30e85c8d9ad4a",
+      "tripName": "Pleasant trek in outstanding Togo",
+      "countryCode": "TG",
+      "car-rental": "",
+      "accommodation": "house",
+      "features": [
+        "pool"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "jajajajaja",
+      "contact": "aaaaaaa",
+      "start-date": "2020-07-29T22:00:00.000Z",
+      "totalCost": "$31,319",
+      "id": 27
     }
   ]
 }
