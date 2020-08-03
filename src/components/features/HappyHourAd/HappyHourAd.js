@@ -22,11 +22,18 @@ class HappyHourAd extends React.Component {
   }
 
   render(){
+    let countDown = this.getCountdownTime();
+    if (countDown > 82800) {
+      countDown = 'lorem ipsum';
+    }
+    else {
+      countDown;
+    }
 
     return(
       <div className={styles.component}>
         <h3 className={styles.title}>Happy Hour</h3>
-        <div className={styles.promoDescription}>{this.getCountdownTime()}</div>
+        <div className={styles.promoDescription}>{countDown}</div>
       </div>
     );
   }  
