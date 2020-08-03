@@ -29,6 +29,7 @@ const sendOrder = (options, tripCost, countryCode, tripName, tripId) => {
     tripName,
     countryCode: countryCode,
     ...options,
+    'start-date': options['start-date'].toLocaleDateString(),
     totalCost,
   };
 

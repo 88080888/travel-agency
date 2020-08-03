@@ -1,0 +1,15 @@
+.component {
+  position: relative;
+  margin: 24px 0;
+}
+
+.component:before, .component::before {
+  position: absolute;
+  content: '';
+  width: 48px;
+  height: 4px;
+  top: -12px;
+  left: 0;
+  background: #222f3e;
+}
+/*# sourceMappingURL=OrderSummary.css.map */

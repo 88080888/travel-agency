@@ -7,14 +7,14 @@ import styles from './OrderOption.scss';
 class OrderOptionDate extends React.Component {
  
   render() {
-    const { currentValue, setOptionValue} = this.props;   
+    const { currentValue, setOptionValue} = this.props;
 
     return (
       <DatePicker
         className={styles.input}
         selected={currentValue}
         onChange={setOptionValue}
-        dateFormat="dd/MM/yyyy"
+        dateFormat="dd.MM.yyyy"
       />
     );
   }

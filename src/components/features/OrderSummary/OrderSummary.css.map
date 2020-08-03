@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACT,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,IAAgB,CAAC,CAAC;CAS3B;;AAXD,ACaE,UDbQ,ACaP,OAAO,EDbV,UAAU,ACaG,QAAQ,CAAW;EAC5B,QAAQ,EAAE,QAAQ;EDVlB,OAAO,EAAE,EAAE;EACX,KAAK,EAAE,IAAgB;EACvB,MAAM,EAAE,GAAG;EACX,GAAG,EAAE,KAAiB;EACtB,IAAI,EAAE,CAAC;EACP,UAAU,ECVD,OAAO;CAiBjB",
+    "sources": [
+        "OrderSummary.scss",
+        "../../../styles/settings.scss"
+    ],
+    "names": [],
+    "file": "OrderSummary.css"
+}

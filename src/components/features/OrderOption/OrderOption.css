@@ -1,0 +1,42 @@
+.component {
+  margin-bottom: 36px;
+}
+
+.title {
+  margin-bottom: 24px;
+}
+
+.input, .dropdown {
+  width: 80%;
+  border: 1px solid #b9c8d9;
+  padding: 6px;
+}
+
+.inputSmall, .dropdownSmall {
+  width: 30%;
+}
+
+.icon {
+  cursor: pointer;
+  width: 80%;
+  padding: 6px;
+}
+
+.icon i {
+  padding-right: 6px;
+}
+
+.iconActive {
+  background: #ff9f43;
+}
+
+.checkboxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+/*# sourceMappingURL=OrderOption.css.map */
