@@ -1,0 +1,14 @@
+.component {
+  position: relative;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.daysDescription {
+  position: absolute;
+  width: 100%;
+  top: 20px;
+}
+/*# sourceMappingURL=DaysToSummer.css.map */
