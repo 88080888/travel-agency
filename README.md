@@ -2,7 +2,7 @@
 
 It is a travel agency application using React, Redux.
 
-### 'npm install'
+### `npm install`
 After cloning project repository run `npm install` to install dependencies.
 
 ### `npm start` 
